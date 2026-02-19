@@ -1,130 +1,175 @@
-# IPTV
-# 📺 Global IPTV Playlist Collection
+<p align="center">
+  <img src="https://i.imgur.com/0nQKQpF.png" alt="IPTV Logo" width="120"/>
+</p>
 
-Welcome to the Global IPTV Playlist repository. This project provides a free and publicly accessible M3U playlist containing live TV channels from Bangladesh, India, and international sources.
+<h1 align="center">🌐 Global IPTV Playlist</h1>
 
-## 🌎 Playlist Link
+<p align="center">
+  📺 Free • 🌍 Worldwide • ⚡ Fast • 🔄 Updated
+</p>
 
-Main Playlist:
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Shahnewaz-saadi/IPTV?color=yellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Shahnewaz-saadi/IPTV?color=orange&style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/Shahnewaz-saadi/IPTV?color=green&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/Shahnewaz-saadi/IPTV?color=blue&style=for-the-badge">
+</p>
+
+---
+
+# 📡 Playlist Link
+
+### 🔴 Main IPTV Playlist:
 
 https://raw.githubusercontent.com/Shahnewaz-saadi/IPTV/main/All%20IPTV.m3u
 
----
-
-## 📡 Channel Categories
-
-This playlist includes channels from multiple categories:
-
-### 🇧🇩 Bangladesh Channels
-- BTV
-- Somoy TV
-- Ekattor TV
-- Channel 24
-- Independent TV
-- Jamuna TV
-- ATN Bangla
-- NTV
-- Maasranga TV
-- Deepto TV
-- Deshi TV
-- Agami TV
-- 52 TV
-
-### 🇮🇳 Indian Bangla Channels
-- Star Jalsha
-- Zee Bangla
-- Colors Bangla
-- Akash Aath
-- ABP Ananda
-- TV9 Bangla
-- DD Bangla
-- Enter10 Bangla
-
-### 🎬 Movies & Music Channels
-- B4U Movies
-- 9XM
-- Zoom
-- ATN Music
-
-### 🧒 Kids Channels
-- Duronto TV
-- PBS Kids
-- Duck TV
-
-### 🌿 Infotainment Channels
-- Discovery Channel
-- Animal Planet
-- BBC Earth
-- Wild Earth
-- Nature TV
-
-### 📰 International News Channels
-- CNN
-- BBC News
-- DW News
-- NDTV
-- Al Jazeera
-- Fox News
 
 ---
 
-## ▶️ Compatible Apps
+# 🌎 Available Categories
 
-This playlist works with:
+## 🇧🇩 Bangladesh
 
-- VLC Media Player
-- IPTV Smarters
-- TiviMate
-- OTT Navigator
-- Kodi
-- Smart TV IPTV apps
+• BTV  
+• Somoy TV  
+• Ekattor TV  
+• Jamuna TV  
+• Channel 24  
+• ATN Bangla  
+• Maasranga TV  
+• Deepto TV  
 
 ---
 
-## 📥 How to Use
+## 🇮🇳 Indian Channels
 
-### Option 1: Direct Link
+• Star Jalsha  
+• Zee Bangla  
+• Colors Bangla  
+• Akash Aath  
+• Sony Aath  
 
-Paste this link in your IPTV app:
+---
+
+## 🎬 Movies
+
+• B4U Movies  
+• Cinema TV  
+• MovieSphere  
+
+---
+
+## ⚽ Sports
+
+• FIFA+  
+• Red Bull TV  
+• SportsGrid  
+
+---
+
+## 🌿 Wildlife
+
+• Discovery  
+• Animal Planet  
+• WildEarth  
+• NatureVision  
+
+---
+
+## 📰 News
+
+• BBC News  
+• CNN  
+• Al Jazeera  
+• DW News  
+
+---
+
+# ▶️ Supported Devices
+
+✔ VLC Media Player  
+✔ IPTV Smarters  
+✔ TiviMate  
+✔ Kodi  
+✔ Smart TV  
+✔ Android TV  
+✔ Mobile  
+
+---
+
+# ⚡ How to Use
+
+## Method 1 — Direct Link
+
+Paste in IPTV app:
 
 https://raw.githubusercontent.com/Shahnewaz-saadi/IPTV/main/All%20IPTV.m3u
 
-### Option 2: Download
-
-Download and open using VLC.
 
 ---
 
-## ⚠️ Disclaimer
+## Method 2 — VLC Player
 
-This repository does not host any TV channels.
-
-All streams are publicly available on the internet.
-
-This project is for educational and testing purposes only.
+Media → Open Network Stream → Paste link
 
 ---
 
-## ❤️ Support
+# 🔄 Features
 
-If you like this project:
-
-⭐ Star the repository
-
-🔄 Share with others
+✔ Free IPTV  
+✔ Fast Streaming  
+✔ Global Channels  
+✔ Regular Updates  
+✔ Clean Playlist  
 
 ---
 
-## 👨‍💻 Author
+# 📊 Repository Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahnewaz-saadi&show_icons=true&theme=dark">
+</p>
+
+---
+
+# ⚠️ Disclaimer
+
+This repository does not host any content.
+
+All streams are publicly available.
+
+For educational purposes only.
+
+---
+
+# ❤️ Support Project
+
+⭐ Star this repo
+
+🍴 Fork this repo
+
+📢 Share
+
+---
+
+# 👨‍💻 Author
 
 Shahnewaz Saadi
 
 GitHub:
+
 https://github.com/Shahnewaz-saadi
 
 ---
 
-## 📅 Last Updated
+# 🟢 Status
 
-2026
+🟢 Online  
+🟢 Active  
+🟢 Updated 2026  
 
+---
+
+<p align="center">
+  Made with ❤️ for IPTV Users
+</p>
