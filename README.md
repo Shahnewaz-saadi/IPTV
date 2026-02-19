@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/0nQKQpF.png" alt="IPTV Logo" width="120"/>
+ 
 </p>
 
 <h1 align="center">🌐 Global IPTV Playlist</h1>
